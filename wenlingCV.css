@@ -1,0 +1,15 @@
+.page{
+    font-size: 30px;
+    text-align: center;
+    background-color: yellow;
+    width: 100%;   
+}
+
+.accordion {
+    display: inline;; 
+}
+
+.accordion-container {
+    justify-content: center;
+    align-items: center;
+}
